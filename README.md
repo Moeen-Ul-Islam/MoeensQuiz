@@ -18,4 +18,5 @@ ___
 Viola!
 
 ### Link to the game: 
-[Play here](https://replit.com/@knightmare-007/MovieGame#index.js?embed=1&output=1)
+
+[Play here](https://replit.com/@knightmare-007/QuizGame#index.js?embed=1&output=1)
