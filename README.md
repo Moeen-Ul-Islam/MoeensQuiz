@@ -1,4 +1,6 @@
 # MoeensQuiz 
+   ### About
+   This is a CLI based quiz app.
 ___
 
 ## dependencies
