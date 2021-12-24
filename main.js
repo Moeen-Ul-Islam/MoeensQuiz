@@ -3,8 +3,7 @@ const chalk = require('chalk');
 
 let score = 0;
 let highestScores = [
-  {name: 'meehsa', score: 5},
-  {name: 'muskan', score: 4}
+  {name: 'benny', score: 5}
 ];
 
 
